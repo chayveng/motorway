@@ -9,14 +9,14 @@ docker compose up
 ## Start NGINX
 
 ```bash
-cd nginx_server \
+cd nginx_server
 docker compose up
 ```
 
 ## Start Fast API
 
 ```bash
-cd fast_api \
+cd fast_api
 docker compose up
 ```
 
